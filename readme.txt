@@ -8,3 +8,4 @@ add5
 add6
 add7
 Creating a new branch is quick and simple.
+add merge
