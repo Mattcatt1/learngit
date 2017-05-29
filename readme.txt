@@ -7,4 +7,4 @@ add4
 add5
 add6
 add7
-Creating a new branch is quick.
+Creating a new branch is quick AND simple.
